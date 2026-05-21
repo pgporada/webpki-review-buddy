@@ -4,7 +4,7 @@ In a VM with Claude code, populate the working directory with WebPKI policy docu
 ```
 git clone https://github.com/pgporada/webpki-review-buddy
 cd webpki-review-buddy
-./setup-repos.md
+./setup-repos.sh
 claude
 ```
 
