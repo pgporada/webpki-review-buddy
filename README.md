@@ -7,3 +7,5 @@ cd webpki-review-buddy
 ./setup-repos.md
 claude
 ```
+
+Thanks to [Preston12321](https://github.com/Preston12321) for the initial `CLAUDE.md`.
