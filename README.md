@@ -9,3 +9,6 @@ claude
 ```
 
 Thanks to [Preston12321](https://github.com/Preston12321) for the initial `CLAUDE.md`.
+
+# Disclaimer
+This thing isn't _your_ buddy, pal. Do your own due diligence research before trusting AI output.
